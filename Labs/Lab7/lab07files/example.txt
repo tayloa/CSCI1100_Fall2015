@@ -1,0 +1,5 @@
+12/3/4/Here is some random text, like 5/4=3
+12/12/12/    Again some spaces\n
+12/32/4 Here is some spaces 
+12/a/412/3/4/Here is some random text, like 5/4=3
+as12/3/4/Here is some random text, like 5/4=3
